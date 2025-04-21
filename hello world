@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	float f;
+	printf("如一个浮点数:");
+	scanf("%f", &f);
+	printf("输出的浮点数为 %f\n", f); 
+	return 0;
+}
